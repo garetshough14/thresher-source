@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/thresher-source/static/css/main.b1883321.css",
+    "main.js": "/thresher-source/static/js/main.640f07cf.js",
+    "static/js/787.55b93c30.chunk.js": "/thresher-source/static/js/787.55b93c30.chunk.js",
+    "static/media/609.jpg": "/thresher-source/static/media/609.a6022b046283778964dc.jpg",
+    "static/media/work-car.png": "/thresher-source/static/media/work-car.fb8b5343e7ab373f6ca9.png",
+    "static/media/ac-units-above.jpg": "/thresher-source/static/media/ac-units-above.be94da0b94b7940a256c.jpg",
+    "static/media/finished-house.jpeg": "/thresher-source/static/media/finished-house.ed26f2111e41e2203875.jpeg",
+    "index.html": "/thresher-source/index.html",
+    "main.b1883321.css.map": "/thresher-source/static/css/main.b1883321.css.map",
+    "main.640f07cf.js.map": "/thresher-source/static/js/main.640f07cf.js.map",
+    "787.55b93c30.chunk.js.map": "/thresher-source/static/js/787.55b93c30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1883321.css",
+    "static/js/main.640f07cf.js"
+  ]
+}
