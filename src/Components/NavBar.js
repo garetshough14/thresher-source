@@ -32,7 +32,7 @@ const NavBar = () => {
           </div>
           <div className="contact-container">
             <a className="phone-number" href="">
-              (661) 213-6125
+              (661) 885-9647
             </a>
             <p className="contact-description">Call us for free consultation</p>
           </div>
