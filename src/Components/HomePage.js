@@ -48,8 +48,8 @@ const HomePage = () => {
       </Slide>
       <div className="expert-wrapper">
         <div className="expert-heading">
-          <h1 className="expert-heading-top">WE ARE EXPERT IN RESIDENTIAL</h1>
-          <h1 className="expert-heading-bottom">HVAC SERVICE AND REPAIR</h1>
+          <h1 className="expert-heading-top">WE ARE EXPERTS</h1>
+          <h1 className="expert-heading-bottom">RESIDENTIAL COMMERCIAL INDUSTRIAL</h1>
           <Link to='/contact' className="free-quotes-button-expert button-home">
             FREE QUOTES <AiOutlineArrowRight style={{ fontSize: "20px" }} />
           </Link>
